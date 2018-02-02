@@ -1,4 +1,4 @@
-
+package pipe
 class pipel implements Serializable {
   def steps
   pipel (steps) {this.steps = steps}
