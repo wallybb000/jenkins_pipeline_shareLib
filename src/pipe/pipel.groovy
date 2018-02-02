@@ -6,3 +6,4 @@ class pipel implements Serializable {
     steps.echo 'ddd'
   }
 }
+return this
