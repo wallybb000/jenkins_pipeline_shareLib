@@ -1,9 +1,8 @@
 package pipe
-class pipel implements Serializable {
+class piper implements Serializable {
   def steps
-  pipel (steps) {this.steps = steps}
+  piper (steps) {this.steps = steps}
   def mvn(args) {
     steps.echo 'ddd'
   }
 }
-return this
